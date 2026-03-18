@@ -17,5 +17,5 @@ npm install @prisma/adapter-mariadb
 
 npx prisma generate 
 
-npx prisma db push
-n
+npx prisma migrate dev
+
