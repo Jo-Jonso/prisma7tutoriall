@@ -5,7 +5,7 @@ Um pequeno tutorial para explicar como usar a ultima vesão do prisma, recente a
 ## O que mudou?
 
 - Mudança no tratamento de pacotes, agora o prisma faz do uso do Ecma Script Modules (ESM) (import/export) ao invés de commonJS (CJS) (require/module.exports).
-- Para funcionamento pleno do client, é recomendado o uso de um driver adapter dedicado para o provedor de banco de dados selecionado pelo dev (MariaDB, Posgres...)
+- Para funcionamento pleno do client, é recomendado o uso de um driver adapter dedicado para o provedor de banco de dados selecionado pelo dev (MariaDB, Postgres...)
 
 npm init
 
